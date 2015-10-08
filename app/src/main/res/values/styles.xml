@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="MovieListStyle">
+    </style>
+    <style name="SettingsTheme" parent="AppTheme">
+    </style>
+    <style name="titleSize">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+
+</resources>

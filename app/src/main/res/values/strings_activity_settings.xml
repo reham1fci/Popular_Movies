@@ -1,0 +1,28 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+ <string name="pref_sort_key">sort</string>
+<string name="pref_sort_label"> Sort by</string>
+ <string name="pref_sort_Default">popularity.desc</string>
+  <string name="pref_sort_by_most_popular">popularity.desc</string>
+ <string name="pref_sort_by_highest_rated">vote_average.desc</string>
+ <string name="pref_sort_by_Favorite">Favorite</string>
+
+
+    <array name="pref_sort_values">
+        <item>popularity.desc</item>
+        <item>vote_average.desc</item>
+        <item>Favorite</item>
+    </array>
+    <array name="pref_sort_options">
+        <item>Most Popular</item>
+        <item>Highest Rated</item>
+        <item>Favorite Movies</item>
+
+    </array>
+</resources>

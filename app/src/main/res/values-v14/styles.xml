@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Settings activity theme. -->
+    <style name="SettingsTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBar.V14.movie </item>
+    </style>
+    <!-- Settings activity action bar styles -->
+    <style name="ActionBar.V14.movie" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/light_black</item>
+        <item name="android:height">70dp</item>
+        <item name="android:text">@string/action_settings</item>
+    </style>
+</resources>

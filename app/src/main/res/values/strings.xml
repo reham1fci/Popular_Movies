@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="action_share">action_share</string>
+     <string name="api_key">d04160312987af22a80ba27b59cd080c</string>
+    <string name="poster_size">w185/</string>
+</resources>
